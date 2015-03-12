@@ -16,7 +16,7 @@ Use the following markup on your page
 auto
 url="https://archive.org/advancedsearch.php?q=collection%3A(GratefulDead%20AND%20etree)%20AND%20-collection%3Astream_only&rows=5&page=0&output=json"
 on-jsonp-complete="{{handleResponse}}"
-response="{{response}}
+response="{{response}}`
 
 ## Attributes
 
