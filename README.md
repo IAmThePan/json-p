@@ -6,8 +6,10 @@ See the [component page](https://github.com/404) for more information.
 
 ## Installation
 
-Install the package (not yet)
-`bower install json-p --save`
+Install the package
+```
+bower install json-p --save
+```
 
 ## Usage
 
