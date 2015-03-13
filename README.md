@@ -14,7 +14,7 @@ bower install json-p --save
 ## Usage
 
 Use the following markup on your page
-```
+```html
 <json-p auto
         url="https://archive.org/advancedsearch.php?q=collection%3A(GratefulDead%20AND%20etree)&rows=5&page=0&output=json"
         on-jsonp-complete="{{handleResponse}}"
